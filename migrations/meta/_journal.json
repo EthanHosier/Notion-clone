@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704072517839,
+      "tag": "0000_supreme_warhawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704072971681,
+      "tag": "0001_sleepy_storm",
+      "breakpoints": true
+    }
+  ]
+}
